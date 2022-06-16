@@ -1,0 +1,11 @@
+.bg-1{
+    clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
+    background-color: coral;
+}
+
+.bg-2{
+    clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
+    background-color: cornflowerblue;
+    height: 100%;
+    width: 100%;
+}
